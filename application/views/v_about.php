@@ -1,7 +1,4 @@
 <section>
-<li><a href="<?php echo base_url().'index.php/web' ?>">Home</a></li>
- <li><a href="<?php echo 
-base_url().'index.php/web/about' ?>">About</a></li>
     <h1><?php echo $judul ?></h1>
 
     <h4>Nama</h4>
